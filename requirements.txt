@@ -1,7 +1,12 @@
 Babel==2.3.4
+click==6.6
 debtcollector==1.4.0
+Flask==0.11
 iso8601==0.1.11
+itsdangerous==0.24
+Jinja2==2.8
 keystoneauth1==2.7.0
+MarkupSafe==0.23
 monotonic==1.1
 msgpack-python==0.4.7
 netaddr==0.7.18
@@ -19,4 +24,5 @@ pytz==2016.4
 requests==2.10.0
 six==1.10.0
 stevedore==1.14.0
+Werkzeug==0.11.10
 wrapt==1.10.8
